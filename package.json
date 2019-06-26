@@ -1,7 +1,7 @@
 {
-  "name": "complete-intro-to-react-v5",
+  "name": "adopt-me",
   "version": "1.0.0",
-  "description": "the Complete Intro to React, v5",
+  "description": "adopt-me",
   "main": "src/App.js",
   "dependencies": {
     "@frontendmasters/pet": "^1.0.3",
@@ -38,7 +38,7 @@
     "prettier": "^1.16.1"
   },
   "scripts": {
-    "start": "parcel index.html",
+    "build": "parcel src/index.html",
     "dev": "parcel src/index.html",
     "dev:mock": "cross-env PET_MOCK=mock parcel src/index.html",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
