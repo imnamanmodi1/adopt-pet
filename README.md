@@ -11,4 +11,7 @@ Steps to Follow after cloning:-
   3. visit http://localhost:1234
 
 
+Live URL:
+https://adoptme.netlify.com/details/44518470
+
 
