@@ -12,6 +12,5 @@ Steps to Follow after cloning:-
 
 
 Live URL:
-https://adoptme.netlify.com/details/44518470
-
+https://adoptme.netlify.com/
 
